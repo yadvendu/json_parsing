@@ -1,0 +1,17 @@
+{
+  "address": {
+    "city": "Bangalore",
+    "country": "India"
+  },
+  "name": "Yadu",
+  "products": [
+    {
+      "productId": "1234",
+      "productName": "Lakme Face Wash"
+    },
+    {
+      "productId": "1334",
+      "productName": "Garnier Face Wash"
+    }
+  ]
+}

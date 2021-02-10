@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "country": "Belgium"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "country": "Portugal"
+  },
+  {
+    "name": "Lionel Messi",
+    "club": "FC Barcelona",
+    "country": "Argentina"
+  }
+]
